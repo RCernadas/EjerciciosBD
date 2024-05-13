@@ -4,7 +4,7 @@ INSERT INTO Fabricante (nombre) VALUES
 ('Apple'),
 ('Xiaomi');
 
--- Inserts datos eb la tabla Articulo
+-- Inserts datos en la tabla Articulo
 INSERT INTO Articulo (nombre, precio, fabricante) VALUES 
 ('PS Vita', 300, 1),
 ('iPhone 8', 550, 2),
